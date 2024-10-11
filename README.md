@@ -20,7 +20,7 @@
 ## Installation Instructions
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DataStream-Nexus.git
+   git clone https://github.com/sudo-Satvik/datastream-nexus.git
 2. **Navigate to the project directory**
    ```bash
    cd datastream-nexus
